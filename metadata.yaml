@@ -1,0 +1,35 @@
+_repo: The-Princess-and-Joe-Potter_32249
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Oakley, Violet
+    birthdate: 1874
+    deathdate: 1961
+    gutenberg_agent_id: '35745'
+    url: http://www.gutenberg.org/2009/agents/35745
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2010-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Princess and Joe Potter
+url: http://www.gutenberg.org/ebooks/32249
